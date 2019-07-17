@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 
 public class Book {
 
+	//添加备注测试
 	private int bid;
 	private String bname;
 	private String author;
