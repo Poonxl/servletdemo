@@ -12,6 +12,7 @@ import org.junit.Test;
 import cn.aura.mvnmybatis.entity.Book;
 import cn.aura.mvnmybatis.mapper.BookMapper;
 
+// github添加备注
 public class MapperTest {
 
 	@Test
